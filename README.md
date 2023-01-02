@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishwary Bagde</h1>
-<h3 align="center">A passionate Automation Test Engineer from India</h3>
+<h3 align="center">A Passionate Automation Test Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.dresma.ai/wp-content/uploads/2022/01/QA-Automation-EngineerMW.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarybagde&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarybagde" /> </p>
