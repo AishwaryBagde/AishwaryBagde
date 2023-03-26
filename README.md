@@ -1,4 +1,4 @@
-![logo](https://github.com/AishwaryBagde/AishwaryBagde/blob/main/Green%20and%20White%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/AishwaryBagde/AishwaryBagde/blob/main/Green%20and%20White%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Aishwary Bagde</h1>
 <h3 align="center">A Passionate Automation Test Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.dresma.ai/wp-content/uploads/2022/01/QA-Automation-EngineerMW.gif">
