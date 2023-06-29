@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aishwarybagdeqa@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/177f7uJL7t7yAsBiUgPfNHtMmgU9L4PyrWaMnoouU_MA/edit?usp=sharing](https://docs.google.com/document/d/1ZEDcXDVRBCpsWPYCJnbzTfifVVdKCOQDjJkbTE5ppNk/edit?usp=sharing)](https://docs.google.com/document/d/177f7uJL7t7yAsBiUgPfNHtMmgU9L4PyrWaMnoouU_MA/edit?usp=sharing)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/177f7uJL7t7yAsBiUgPfNHtMmgU9L4PyrWaMnoouU_MA/edit?usp=sharing](https://docs.google.com/document/d/1ZEDcXDVRBCpsWPYCJnbzTfifVVdKCOQDjJkbTE5ppNk/edit?usp=sharing)]
 
 - ⚡ Fun fact **I am a ambitious person.**
 
