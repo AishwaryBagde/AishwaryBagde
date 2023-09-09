@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarybagde&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarybagde" /> </p>
 
-- 🔭 I’m currently working on **QTrip QA Automation Project**
+- 🔭 I’m currently working on **Honing My Automation Skills**
 
-- 🌱 I’m currently learning **Automation Testing - API & Performance Testing.**
+- 🌱 I’m currently learning **Automation Testing, Postman, Database Testing**
 
 - 👯 I’m looking to collaborate on **Automation Projects.**
 
